@@ -1,5 +1,8 @@
 # 🔐 Password Generator (Python + Streamlit)
 
+### 🔗 **Live Demo:**  
+👉 https://password-generator-ghypz6onxezr5n5cur8wmu.streamlit.app/
+
 An interactive **Password Generator** built with **Python OOP** and **Streamlit**.  
 Generate secure PINs, random passwords, or memorable passwords using dictionary words.  
 
